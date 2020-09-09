@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Le Pendu</string>
+    <string name="action_Parametre">paramètres</string>
+    <string name="title_activity_Parametre">paramètres</string>
+    <string name="title_activity_Jouer">Jouer</string>
+
+
+</resources>
